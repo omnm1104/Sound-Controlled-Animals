@@ -1,0 +1,33 @@
+body{
+    background-color: red;
+    font-family:cursive;
+}
+.header_div{
+    color: red ;
+    background-color: black;
+}
+.header_div p{
+    color: red;
+    letter-spacing: 1px;
+    font-size: 14px;
+    font-weight: bold;
+}
+.main_div button{
+    margin-top: 20px;
+    background-color: gold;
+    font-weight: bolder;
+    color: black;
+}
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: red;
+    text-align: center;
+    line-height: 1;
+    text-shadow: 1px 1px 1px gold;
+}
+h3{
+    color: black;
+}
